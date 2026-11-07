@@ -6,8 +6,7 @@
 
 # 
 
-# \## 👥 Tabla de Integrantes y Funcionalidad
-
+# \## 👥 Tabla de Integrantes
 # 
 
 # | Integrante | Rama de Trabajo | Funcionalidad / Módulos Desarrollados |
