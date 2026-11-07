@@ -1,3 +1,24 @@
-# EntregaFinalVR
+# \# Entrega Final - Realidad Virtual (VR)
 
-Developed with Unreal Engine 5
+# 
+
+# Proyecto de aplicación de Realidad Virtual desarrollado en Unreal Engine 5.
+
+# 
+
+# \## 👥 Tabla de Integrantes y Funcionalidad
+
+# 
+
+# | Integrante | Rama de Trabajo | Funcionalidad / Módulos Desarrollados |
+
+# | :--- | :--- | :--- |
+
+# | \*\*Uriel Vázquez Martínez\*\* | `master` | Configuración general, físicas, emulación VR y sincronización de repositorio |
+
+# | \*\*Dante Tristan\*\* | `RamaDante` | Implementacion de figuras geometricas |
+
+# | \*\*Brayan Josue\*\*\* | `RamaBraaaay` | Implementación de boton interactivo |
+
+# | \*\*Febe Keren\*\* | `rama-keren` | Implementacion de Modelos 3D |
+
