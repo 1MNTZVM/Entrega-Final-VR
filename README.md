@@ -13,7 +13,7 @@
 
 # | :--- | :--- | :--- |
 
-# | \*\*Uriel Vázquez Martínez\*\* | `master` | Configuración general, lampara parpadeante, emulación VR y sincronización de repositorio |
+# | \*\*Uriel Vázquez Martínez\*\* | `master` | Configuración general, lampara parpadeante con fisicas y GrabComponent, emulación VR y sincronización de repositorio |
 
 # | \*\*Dante Tristan\*\* | `RamaDante` | Implementacion de figuras geometricas |
 
